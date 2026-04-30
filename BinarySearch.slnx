@@ -1,2 +1,5 @@
 <Solution>
+  <Project Path="BinarySearch/BinarySearch.csproj" />
+  <Project Path="BinarySearch.Core/BinarySearch.Core.csproj" />
+  <Project Path="BinarySearch.Tests/BinarySearch.Tests.csproj" />
 </Solution>
