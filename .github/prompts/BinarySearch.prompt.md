@@ -19,3 +19,5 @@ mid 取直方式 以及免 overflow 的寫法
 或是
  left <= right 中 left == right
 的情況下，mid 的取值方式會有什麼不同，以及對於搜尋>
+
+https://blog.csdn.net/m0_50086696/article/details/123353057
