@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch (BinarySearch)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build BinarySearch",
+      "program": "${workspaceFolder}/BinarySearch/bin/Debug/net10.0/BinarySearch.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/BinarySearch",
+      "console": "integratedTerminal",
+      "stopAtEntry": false,
+      "justMyCode": true
+    }
+  ]
+}
